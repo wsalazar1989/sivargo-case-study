@@ -80,6 +80,7 @@ Inside the API, dependencies point inward: routes → controllers → services �
 ## OlivIA: the AI concierge
 
 <p align="center">
+  <img src="img/olivia-demo.gif" width="220" alt="OlivIA demo: question, answer, result cards, listing">
   <img src="img/olivia.webp" width="200" alt="OlivIA chat with result cards">
   <img src="img/ai-listing-assist.webp" width="200" alt="AI listing assist for hosts">
 </p>
